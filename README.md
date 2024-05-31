@@ -15,3 +15,8 @@ CircularQueue
 ## Day 4 (30/05/2024)
 
 Hashtable
+
+## Day 5 (31/05/2024)
+
+3. Longest Substring Without Repeating Characters |M|
+4. Median of Two Sorted Arrays |H|
