@@ -20,3 +20,7 @@ Hashtable
 
 3. Longest Substring Without Repeating Characters |M|
 4. Median of Two Sorted Arrays |H|
+
+## Day 6 (01/06/2024)
+
+5. Longest Palindromic Substring |M|, expand around center
