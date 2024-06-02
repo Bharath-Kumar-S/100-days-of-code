@@ -24,3 +24,8 @@ Hashtable
 ## Day 6 (01/06/2024)
 
 5. Longest Palindromic Substring |M|, expand around center
+
+## Day 7 (02/06/2024)
+
+6. Zigzag Conversion |M|
+7. Reverse Integer |M|
