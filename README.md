@@ -46,3 +46,8 @@ Hashtable
 
 7. Reverse Integer |M|
    [Reverse Integer](Day%207/7_Reverse_Integer.js).
+
+## Day 8 (03/06/2024)
+
+8. String to Integer (atoi) |M|
+   [String to Integer](Day%208/String_to_Integer.js)
