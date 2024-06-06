@@ -54,16 +54,27 @@ Hashtable
 
 ## Day 9 (04/06/2024)
 
-9. Roman to interger 13 |E|
+9. 13 Roman to interger 13 |E|
    [Roman to Integer](Day%209/Roman2Integer.js)
 
 ## Day 10 (05/06/2024)
 
-11. Container with most water
+10. 11 Container with most water
     [Container with most water](Day%2010/11_container_with_most_water.js)
-12. Phone number
+11. 17 Phone number
     [Phone number](Day%2010/17_phone_number.js)
-13. Buy and sell 1
+12. 121 Buy and sell 1
     [Buy and sell 1](Day%2010/121_Buy_and_sell.js)
-14. Buy and sell 2
+13. 122 Buy and sell 2
     [Buy and sell 2](Day%2010/122_Buy_and_sell_2.js)
+
+## Day 11 (06/06/2024)
+
+14. 98 Valid BST |M|
+    [Valid BST](Day%2011/98_valid_BST.js)
+15. 113 Path Sum 2 |M| DFS, Backtracking, recu
+    [Path sum 2](Day%2011/113.%20Path%20Sum%20II.js)
+16. 217 Duplicates in array |E| SET, loops
+    [Duplicates array](Day%2011/217_Duplicates_array.js)
+17. 238 Product of array except self |M|
+    [Product of Array](Day%2011/238_Product_of_Array.js)
