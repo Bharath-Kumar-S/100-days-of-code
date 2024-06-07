@@ -78,3 +78,14 @@ Hashtable
     [Duplicates array](Day%2011/217_Duplicates_array.js)
 17. 238 Product of array except self |M|
     [Product of Array](Day%2011/238_Product_of_Array.js)
+
+## Day 12 (07/06/2024)
+
+18. 56 merge intervals
+    [Merge intervals](Day%2012/56%20Merge%20Intervals.js)
+19. 94 Inorder tree traversal
+    [94 Inorder tree traversal](Day%2012/94%20Inorder%20tree%20traversal.js)
+20. 144 Preorder tree traversal
+    [144 Preorder tree traversal ](Day%2012/144%20preorder.js)
+21. 145 Postorder tree traversal
+    [145 Postorder tree traversal ](Day%2012/145%20postorder.js)
