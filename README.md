@@ -89,3 +89,14 @@ Hashtable
     [144 Preorder tree traversal ](Day%2012/144%20preorder.js)
 21. 145 Postorder tree traversal
     [145 Postorder tree traversal ](Day%2012/145%20postorder.js)
+
+---Vacation gap---
+
+## Day 13 (12/06/2024)
+
+22. 101 Symmetric tree
+    [101 Symmetric tree](Day%2013/101%20Symmetric%20tree.js)
+23. 102 Binary tree level order
+    [102 Binary tree level order](Day%2013/102%20Binary%20tree%20level%20order.js)
+24. 297 Serialize and Deseialize Binary Tree
+    [297 Serialize and Deseialize Binary Tree](Day%2013/297%20Serialize%20and%20Deserialize%20Binary%20Tree.js)
