@@ -101,4 +101,11 @@ Hashtable
 24. 297 Serialize and Deseialize Binary Tree
     [297 Serialize and Deseialize Binary Tree](Day%2013/297%20Serialize%20and%20Deserialize%20Binary%20Tree.js)
 
+---Vacation gap---
+
 ## Day 14
+
+25. 20 valid Parantheses[20 validParentheses.js](Day%2014/20%20validParentheses.js)
+26. 876 876 middle of linkedlist[876 middle of linkedlist.js](Day%2014/876%20middle%20of%20linkedlist.js)
+27. 2095. Delete the Middle Node of a Linked List[2095. Delete the Middle Node of a Linked List](Day%2014/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.js)
+28. Linkedlist [Linkedlist](Day%2014/linkedList.js)
