@@ -106,6 +106,9 @@
 
 ## Day 16
 
+36. [Hackerrank Apples and Oranges](Day%2016/Hackerrank%20Apples%20and%20oranges.js)
+37. [Hackerrank Grading students](Day%2016/Hackerrank%20Grading%20student.js)
+
 ## Day 17
 
 ## Day 18
