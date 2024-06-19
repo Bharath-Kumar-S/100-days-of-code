@@ -111,6 +111,9 @@
 
 ## Day 17
 
+38. [Hackerrank Between two sets](Day%2017/Between%20two%20sets.js)
+39. [Hackerrank Line Number Jumps](Day%2017/Line%20Number%20Jumps.js)
+
 ## Day 18
 
 ## Day 19
