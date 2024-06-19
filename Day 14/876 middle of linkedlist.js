@@ -39,6 +39,5 @@ var middleNode = function (head) {
     slow = slow.next;
     fast = fast.next.next;
   }
-
   return slow;
 };

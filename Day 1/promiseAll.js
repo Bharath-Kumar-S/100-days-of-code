@@ -20,3 +20,8 @@ const func3 = async () => {
   const res = await Promise.all([func1(), func2(), func3()]);
   console.log(res);
 })();
+
+(async () => {
+  const res = await Promise.allSettled([func1(), func2(), func3()]);
+  console.log(res);
+})();
