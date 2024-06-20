@@ -116,6 +116,8 @@
 
 ## Day 18
 
+40. [Hackerrank Subarray division](Day%2018/subArrayDivision.js)
+
 ## Day 19
 
 ## Day 20
