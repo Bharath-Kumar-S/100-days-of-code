@@ -83,7 +83,7 @@
 26. Leetcode 145 Postorder tree traversal
     [145 Postorder tree traversal ](Day%2012/145%20postorder.js)
 
-## Day 13 (12/06/2024)
+## Day 13 (08/06/2024)
 
 27. Leetcode 101 Symmetric tree
     [101 Symmetric tree](Day%2013/101%20Symmetric%20tree.js)
@@ -92,57 +92,57 @@
 29. Leetcode 297 Serialize and Deseialize Binary Tree
     [297 Serialize and Deseialize Binary Tree](Day%2013/297%20Serialize%20and%20Deserialize%20Binary%20Tree.js)
 
-## Day 14
+## Day 14 (09/06/2024)
 
 30. Leetcode 20 valid Parantheses[20 validParentheses.js](Day%2014/20%20validParentheses.js)
 31. Leetcode 876 middle of linkedlist[876 middle of linkedlist.js](Day%2014/876%20middle%20of%20linkedlist.js)
 32. Leetcode 2095. Delete the Middle Node of a Linked List[2095. Delete the Middle Node of a Linked List](Day%2014/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.js)
 33. Linkedlist [Linkedlist](Day%2014/linkedList.js)
 
-## Day 15
+## Day 15 (10/06/2024)
 
 34. Leetcode 141 Linked list cycles[141 linkedListCyles.js](Day%2015/141%20linkedListCycles.js)
 35. Leetcode 28. Find the Index of the First Occurrence in a String[28. Find the Index of the First Occurrence in a String.js](Day%2015/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.js)
 
-## Day 16
+## Day 16 (11/06/2024)
 
 36. [Hackerrank Apples and Oranges](Day%2016/Hackerrank%20Apples%20and%20oranges.js)
 37. [Hackerrank Grading students](Day%2016/Hackerrank%20Grading%20student.js)
 
-## Day 17
+## Day 17 (12/06/2024)
 
 38. [Hackerrank Between two sets](Day%2017/Between%20two%20sets.js)
 39. [Hackerrank Line Number Jumps](Day%2017/Line%20Number%20Jumps.js)
 
-## Day 18
+## Day 18 (13/06/2024)
 
 40. [Hackerrank Subarray division](Day%2018/subArrayDivision.js)
 
-## Day 19
+## Day 19 (14/06/2024)
 
 41. [1492 kth factor](Day%2019/1492_kth_factor.js)
 
-## Day 20
+## Day 20 (15/06/2024)
 
 42. [9 Palindrome number](Day%2020/9%20Palindrome%20Number.js)
 43. [412 Fizz Buzz](Day%2020/412%20Fizz%20Buzz.js)
 
-## Day 21
+## Day 21 (16/06/2024)
 
 44. [35 Search Insert position](Day%2021/35%20Search%20Insert%20position.js)
 45. [242 Anagram](Day%2021/242%20Anagram.js)
 
-## Day 22
+## Day 22 (17/06/2024)
 
 46. [125 Valid Palindrome](Day%2022/125%20Valid%20Palindrome.js)
 47. [704 Binary search](Day%2022/704%20Binary%20search.js)
 
-## Day 23
+## Day 23 (18/06/2024)
 
 83. [83 Remove Duplicates from Sorted List](Day%2023/83%20Remove%20Duplicates%20from%20Sorted%20List.js)
 84. [278 First Bad Version](Day%2023/278%20First%20Bad%20Version.js)
 
-## Day 24
+## Day 24 (19/06/2024)
 
 85. [566. Reshape the Matrix](Day%2024/566.%20Reshape%20the%20Matrix.js)
 
