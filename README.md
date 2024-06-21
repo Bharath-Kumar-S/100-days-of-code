@@ -129,6 +129,9 @@
 
 ## Day 21
 
+44. [35 Search Insert position](Day%2021/35%20Search%20Insert%20position.js)
+45. [242 Anagram](Day%2021/242%20Anagram.js)
+
 ## Day 22
 
 ## Day 23
