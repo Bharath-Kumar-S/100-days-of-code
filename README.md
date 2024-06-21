@@ -134,6 +134,9 @@
 
 ## Day 22
 
+46. [125 Valid Palindrome](Day%2022/125%20Valid%20Palindrome.js)
+47. [704 Binary search](Day%2022/704%20Binary%20search.js)
+
 ## Day 23
 
 ## Day 24
