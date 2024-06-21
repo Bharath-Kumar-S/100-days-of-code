@@ -120,9 +120,12 @@
 
 ## Day 19
 
-41. [Hackerrank 1492 kth factor](Day%2019/1492_kth_factor.js)
+41. [1492 kth factor](Day%2019/1492_kth_factor.js)
 
 ## Day 20
+
+42. [9 Palindrome number](Day%2020/9%20Palindrome%20Number.js)
+43. [412 Fizz Buzz](Day%2020/412%20Fizz%20Buzz.js)
 
 ## Day 21
 
