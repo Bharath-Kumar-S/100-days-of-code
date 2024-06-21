@@ -120,6 +120,8 @@
 
 ## Day 19
 
+41. [Hackerrank 1492 kth factor](Day%2019/1492_kth_factor.js)
+
 ## Day 20
 
 ## Day 21
