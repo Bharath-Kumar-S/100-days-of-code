@@ -139,6 +139,9 @@
 
 ## Day 23
 
+83. [83 Remove Duplicates from Sorted List](Day%2023/83%20Remove%20Duplicates%20from%20Sorted%20List.js)
+84. [278 First Bad Version](Day%2023/278%20First%20Bad%20Version.js)
+
 ## Day 24
 
 ## Day 25
