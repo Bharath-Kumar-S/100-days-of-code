@@ -144,6 +144,8 @@
 
 ## Day 24
 
+85. [566. Reshape the Matrix](Day%2024/566.%20Reshape%20the%20Matrix.js)
+
 ## Day 25
 
 ## Day 26
