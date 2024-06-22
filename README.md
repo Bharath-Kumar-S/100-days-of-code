@@ -139,13 +139,16 @@
 
 ## Day 23 (18/06/2024)
 
-83. [83 Remove Duplicates from Sorted List](Day%2023/83%20Remove%20Duplicates%20from%20Sorted%20List.js)
-84. [278 First Bad Version](Day%2023/278%20First%20Bad%20Version.js)
+48. [83 Remove Duplicates from Sorted List](Day%2023/83%20Remove%20Duplicates%20from%20Sorted%20List.js)
+49. [278 First Bad Version](Day%2023/278%20First%20Bad%20Version.js)
 
 ## Day 24 (19/06/2024)
 
-85. [566. Reshape the Matrix](Day%2024/566.%20Reshape%20the%20Matrix.js)
+50. [566. Reshape the Matrix](Day%2024/566.%20Reshape%20the%20Matrix.js)
 
 ## Day 25
+
+51. [513 Find Bottom Left Tree Value](Day%2025/513%20Find%20bottom%20left%20Tree%20value.js)
+52. [796 String rotations](Day%2025/796%20String%20rotations.js)
 
 ## Day 26
