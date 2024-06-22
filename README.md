@@ -146,9 +146,12 @@
 
 50. [566. Reshape the Matrix](Day%2024/566.%20Reshape%20the%20Matrix.js)
 
-## Day 25
+## Day 25 (20/06/2024)
 
 51. [513 Find Bottom Left Tree Value](Day%2025/513%20Find%20bottom%20left%20Tree%20value.js)
 52. [796 String rotations](Day%2025/796%20String%20rotations.js)
 
-## Day 26
+## Day 26 (21/06/2024)
+
+53. [766 Toeplitz Matrix](Day%2026/766%20Toeplitz%20Matrix.js)
+54. [867 Transpose Matrix](Day%2026/867%20Transpose%20Matrix.js)
