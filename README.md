@@ -160,3 +160,8 @@
 
 55. [27 Remove Element](Day%2027/27%20Remove%20Element.js)
 56. [88 Merge sorted array](Day%2027/88%20Merge%20sorted%20array.js)
+
+## Day 28 (23/06/2024)
+
+57. [Counting valleys](Day%2028/counting%20valleys.js)
+58. [Sales by Match](Day%2028/Sales%20My%20Match.js)
