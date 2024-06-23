@@ -165,3 +165,5 @@
 
 57. [Counting valleys](Day%2028/counting%20valleys.js)
 58. [Sales by Match](Day%2028/Sales%20My%20Match.js)
+59. [Jumping on clouds](Day%2028/jumping%20on%20clouds.js)
+60. [Repeated strings](Day%2028/Repeated%20strings.js)
