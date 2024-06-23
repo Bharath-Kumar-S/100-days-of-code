@@ -155,3 +155,8 @@
 
 53. [766 Toeplitz Matrix](Day%2026/766%20Toeplitz%20Matrix.js)
 54. [867 Transpose Matrix](Day%2026/867%20Transpose%20Matrix.js)
+
+## Day 27 (22/06/2024)
+
+55. [27 Remove Element](Day%2027/27%20Remove%20Element.js)
+56. [88 Merge sorted array](Day%2027/88%20Merge%20sorted%20array.js)
