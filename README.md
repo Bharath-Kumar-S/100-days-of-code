@@ -167,3 +167,7 @@
 58. [Sales by Match](Day%2028/Sales%20My%20Match.js)
 59. [Jumping on clouds](Day%2028/jumping%20on%20clouds.js)
 60. [Repeated strings](Day%2028/Repeated%20strings.js)
+
+## Day 29 (24/06/2024)
+
+61. [Hackerrank](Day%2029/minimumBribes.js)
