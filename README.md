@@ -171,3 +171,7 @@
 ## Day 29 (24/06/2024)
 
 61. [Hackerrank minimum bribes](Day%2029/minimumBribes.js)
+
+## Day 30 (25/06/2024)
+
+62. [15 3Sum](Day%2030/15%203Sum.js)
