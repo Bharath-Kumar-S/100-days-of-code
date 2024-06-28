@@ -175,3 +175,7 @@
 ## Day 30 (25/06/2024)
 
 62. [15 3Sum](Day%2030/15%203Sum.js)
+
+## Day 31 (26/06/2024)
+
+63. [21 Merge two sorted lists](Day%2031/21%20Merge%20two%20sorted%20list.js)
