@@ -179,3 +179,7 @@
 ## Day 31 (26/06/2024)
 
 63. [21 Merge two sorted lists](Day%2031/21%20Merge%20two%20sorted%20list.js)
+
+## Day 32 (27/06/2024)
+
+64. [Runlength encoding](Day%2032/Runlength%20encoding.js)
