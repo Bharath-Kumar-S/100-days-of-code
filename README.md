@@ -183,3 +183,7 @@
 ## Day 32 (27/06/2024)
 
 64. [Runlength encoding](Day%2032/Runlength%20encoding.js)
+
+## Day 33 (28/06/2024)
+
+65. [Runlength decoding](Day%2033/Runlength%20decoding.js)
