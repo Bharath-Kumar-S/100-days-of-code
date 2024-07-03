@@ -191,3 +191,7 @@
 ## Day 34 (29/06/2024)
 
 66. [Min heap](Day%2034/Min%20Heap.js)
+
+## Day 35 (30/06/2024)
+
+67. [Max heap](Day%2035/Max%20Heap.js)
