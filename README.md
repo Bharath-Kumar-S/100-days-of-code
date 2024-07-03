@@ -187,3 +187,7 @@
 ## Day 33 (28/06/2024)
 
 65. [Runlength decoding](Day%2033/Runlength%20decoding.js)
+
+## Day 34 (29/06/2024)
+
+66. [Min heap](Day%2034/Min%20Heap.js)
