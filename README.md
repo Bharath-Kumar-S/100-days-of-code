@@ -195,3 +195,10 @@
 ## Day 35 (30/06/2024)
 
 67. [Max heap](Day%2035/Max%20Heap.js)
+
+## Day 36 (01/07/2024)
+
+68. [Counting sort 1](Day%2036/counting%20sort%201.js)
+69. [Pangram](Day%2036/pangram.js)
+70. [permutating array](Day%2036/permutating%20array.js)
+71. [subarray division](Day%2036/subarray%20div.js)
