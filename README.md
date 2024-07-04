@@ -202,3 +202,8 @@
 69. [Pangram](Day%2036/pangram.js)
 70. [permutating array](Day%2036/permutating%20array.js)
 71. [subarray division](Day%2036/subarray%20div.js)
+
+## Day 37 (02/07/2024)
+
+72. [Find median of array](Day%2037/findMedianOfArray.js)
+73. [Flipping Matrix](Day%2037/flippingMatrix.js)
