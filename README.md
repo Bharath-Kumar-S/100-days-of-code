@@ -215,3 +215,11 @@
 76. [insert node at tail](Day%2038/insertNodeAtTail.js)
 77. [print linked list](Day%2038/printLinkedList.js)
 78. [sparse array](Day%2038/Sparse%20Array.js)
+
+## Day 39 (04/07/2024)
+
+79. [compareLL](Day%2039/compareLL.js)
+80. [deleNodeAtPosition](Day%2039/deleteNodeAtPosition.js)
+81. [insertAtPositionLL](Day%2039/insertAtPositionLL.js)
+82. [reverseLL](Day%2039/reverseLL.js)
+83. [reversePrint](Day%2039/reversePrint.js)
