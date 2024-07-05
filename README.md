@@ -223,3 +223,8 @@
 81. [insertAtPositionLL](Day%2039/insertAtPositionLL.js)
 82. [reverseLL](Day%2039/reverseLL.js)
 83. [reversePrint](Day%2039/reversePrint.js)
+
+## Day 40 (05/07/2024)
+
+84. [557 Reverse String](Day%2040/%20557%20Reverse%20String.js)
+85. [22 generate parenthesis](Day%2040/22%20generateParenthesis.js)
