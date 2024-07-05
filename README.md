@@ -207,3 +207,11 @@
 
 72. [Find median of array](Day%2037/findMedianOfArray.js)
 73. [Flipping Matrix](Day%2037/flippingMatrix.js)
+
+## Day 38 (03/07/2024)
+
+74. [array manipulation](Day%2038/arrayManipulation.js)
+75. [insert node at head](Day%2038/insertNodeAtHead.js)
+76. [insert node at tail](Day%2038/insertNodeAtTail.js)
+77. [print linked list](Day%2038/printLinkedList.js)
+78. [sparse array](Day%2038/Sparse%20Array.js)
