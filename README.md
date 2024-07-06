@@ -228,3 +228,10 @@
 
 84. [557 Reverse String](Day%2040/%20557%20Reverse%20String.js)
 85. [22 generate parenthesis](Day%2040/22%20generateParenthesis.js)
+
+## Day 41 (06/07/2024)
+
+86. [55 Jump game I](Day%2041/55%20Jump%20game.js)
+87. [45 Jump game 2](Day%2041/45%20Jump%20game%20II.js)
+88. [1303 Jump game 3](Day%2041/1303%20Jump%20game%20III.js)
+89. [283 Move zeros to end](Day%2041/283%20Move%20zeros%20to%20end.js)
