@@ -235,3 +235,8 @@
 87. [45 Jump game 2](Day%2041/45%20Jump%20game%20II.js)
 88. [1303 Jump game 3](Day%2041/1303%20Jump%20game%20III.js)
 89. [283 Move zeros to end](Day%2041/283%20Move%20zeros%20to%20end.js)
+
+## Day 42 (07/07/2024)
+
+90. [274 H Index](Day%2042/274%20H%20Index.js)
+91. [380 Insert Delete Random O(1)](<Day%2042/380%20Insert%20Delete%20Random%20o(1).js>)
