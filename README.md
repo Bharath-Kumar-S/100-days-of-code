@@ -240,3 +240,8 @@
 
 90. [274 H Index](Day%2042/274%20H%20Index.js)
 91. [380 Insert Delete Random O(1)](<Day%2042/380%20Insert%20Delete%20Random%20o(1).js>)
+
+## Day 43 (08/07/2024)
+
+92. [127 Word ladder](Day%2043/127%20Word%20ladder.js)
+93. [1086 High Five](Day%2043/1086%20High%20Five.js)
