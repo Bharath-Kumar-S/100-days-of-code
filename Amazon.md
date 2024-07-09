@@ -257,3 +257,14 @@
 ### Cheapest Flights Within K Stops - LeetCode 787
 
 ### Course Schedule III - LeetCode 630
+
+Designing distributed systems requires carefully balancing these trade-offs based on application requirements.
+
+Here are some practical strategies:
+
+1. **Eventual Consistency:**
+   - **Definition:** A consistency model where updates are propagated to all nodes eventually, but not immediately.
+   - **Use Case:** Systems where immediate consistency is not critical, such as DNS and content delivery networks (CDNs).
+2. **Strong Consistency:**
+   - **Definition:** A model ensuring that once a write is confirmed, any subsequent reads will return that value.
+   - **Use Case:** Systems requiring high data accuracy, like financial applications and inventory management.
