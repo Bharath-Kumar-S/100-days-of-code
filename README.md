@@ -245,3 +245,12 @@
 
 92. [127 Word ladder](Day%2043/127%20Word%20ladder.js)
 93. [1086 High Five](Day%2043/1086%20High%20Five.js)
+
+## Day 44 (09/07/2024)
+
+Learn youtube system design
+
+## Day 45 (09/07/2024)
+
+calculate left most unique element in the list amz
+
