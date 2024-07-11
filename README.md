@@ -254,3 +254,6 @@ Learn youtube system design
 
 calculate left most unique element in the list amz
 
+## Day 46 (10/07/2024)
+
+Lowest common ansesctor of BST
