@@ -257,3 +257,7 @@ calculate left most unique element in the list amz
 ## Day 46 (10/07/2024)
 
 Lowest common ansesctor of BST
+
+## Day 47 (11/07/2024)
+
+Singly linked list
