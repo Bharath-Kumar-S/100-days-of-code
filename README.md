@@ -265,3 +265,7 @@ Singly linked list
 ## Day 48 (13/07/2024)
 
 [Docker, Express, Volumes, Network, Images, Containers, Docker compose, Dockerfile, MongoDB](Day%2048/docker-compose.yaml)
+
+## Day 49 (14/07/2024)
+
+[ECR, ECS, ALB, VPC, Auto scaling group, Target groups]
