@@ -269,3 +269,7 @@ Singly linked list
 ## Day 49 (14/07/2024)
 
 [ECR, ECS, ALB, VPC, Auto scaling group, Target groups]
+
+## Day 50 (15/07/2024)
+
+React Simple Quiz app
