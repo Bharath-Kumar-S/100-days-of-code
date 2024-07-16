@@ -273,3 +273,7 @@ Singly linked list
 ## Day 50 (15/07/2024)
 
 React Simple Quiz app
+
+## Day 51 (16/07/2024)
+
+React Redux
