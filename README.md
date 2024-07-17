@@ -277,3 +277,7 @@ React Simple Quiz app
 ## Day 51 (16/07/2024)
 
 React Redux
+
+## Day 52 (17/07/2024)
+
+[Svelte](Day%2052/Svelte/first-app)
