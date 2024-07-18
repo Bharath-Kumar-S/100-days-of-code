@@ -281,3 +281,7 @@ React Redux
 ## Day 52 (17/07/2024)
 
 [Svelte](Day%2052/Svelte/first-app)
+
+## Day 53 (18/07/2024)
+
+[Svelte](Day%2053/svelte-playground)
