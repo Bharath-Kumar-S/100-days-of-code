@@ -285,3 +285,7 @@ React Redux
 ## Day 53 (18/07/2024)
 
 [Svelte](Day%2053/svelte-playground)
+
+## Day 54 (19/07/2024)
+
+CSS refresher
