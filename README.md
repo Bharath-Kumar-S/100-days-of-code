@@ -289,3 +289,7 @@ React Redux
 ## Day 54 (19/07/2024)
 
 CSS refresher
+
+## Day 55 (20/07/2024)
+
+CSS refresher 2
