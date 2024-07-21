@@ -293,3 +293,7 @@ CSS refresher
 ## Day 55 (20/07/2024)
 
 CSS refresher 2
+
+## Day 56 (21/07/2024)
+
+Redux setup https://github.com/Bharath-Kumar-S/dashboard-app
