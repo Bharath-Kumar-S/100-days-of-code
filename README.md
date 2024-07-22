@@ -297,3 +297,7 @@ CSS refresher 2
 ## Day 56 (21/07/2024)
 
 Redux setup https://github.com/Bharath-Kumar-S/dashboard-app
+
+## Day 57 (22/07/2024)
+
+React hooks & React custom hooks refresher
