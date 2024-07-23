@@ -301,3 +301,7 @@ Redux setup https://github.com/Bharath-Kumar-S/dashboard-app
 ## Day 57 (22/07/2024)
 
 React hooks & React custom hooks refresher
+
+#$ Day 58 (23/07/2024)
+
+[Dom Manipulations](Day%2058/index.html)
