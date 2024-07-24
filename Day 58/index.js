@@ -60,3 +60,10 @@ newLi.style.color = "red";
 newLi.setAttribute("id", "new-item");
 newLi.getAttribute("id");
 newLi.removeAttribute("id");
+
+//classlist
+newLi.classList.add("new-item");
+newLi.classList.remove("new-item");
+newLi.classList.toggle("new-item");
+console.log(newLi.classList.contains("new-item"));
+newLi.classList.replace("new-item", "new-item-replaced");

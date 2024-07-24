@@ -305,3 +305,7 @@ React hooks & React custom hooks refresher
 #$ Day 58 (23/07/2024)
 
 [Dom Manipulations](Day%2058/index.html)
+
+## Day 59 (24/07/2024)
+
+[eloquentjavascript](https://eloquentjavascript.net/)
