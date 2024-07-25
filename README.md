@@ -309,3 +309,9 @@ React hooks & React custom hooks refresher
 ## Day 59 (24/07/2024)
 
 [eloquentjavascript](https://eloquentjavascript.net/)
+
+## Day 60 (25/07/2024)
+
+[array Flatten](Day%2060/array_flattening.js)
+[array Reverse](Day%2060/reverse_array.js)
+[array sum of range](Day%2060/sum_of_range_in_array.js)
