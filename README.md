@@ -315,3 +315,7 @@ React hooks & React custom hooks refresher
 [array Flatten](Day%2060/array_flattening.js)
 [array Reverse](Day%2060/reverse_array.js)
 [array sum of range](Day%2060/sum_of_range_in_array.js)
+
+## Day 61 (26/07/2024)
+
+[Basic calc](Day%2061/index.html)
