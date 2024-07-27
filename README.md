@@ -319,3 +319,7 @@ React hooks & React custom hooks refresher
 ## Day 61 (26/07/2024)
 
 [Basic calc](Day%2061/index.html)
+
+## Day 62 (27/07/2024)
+
+[NO JS](Day%2062)
