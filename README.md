@@ -327,3 +327,7 @@ React hooks & React custom hooks refresher
 ## Day 63 (28/07/2024)
 
 [Custom hooks](Day%2063/customhooks)
+
+## Day 64 (29/07/2024)
+
+[Context API, useMemo, useState](Day%2064/hooks)
