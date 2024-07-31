@@ -331,3 +331,7 @@ React hooks & React custom hooks refresher
 ## Day 64 (29/07/2024)
 
 [Context API, useMemo, useState](Day%2064/hooks)
+
+## Day 65 (30/07/2024)
+
+[React TS Generics](Day%2065/ts-generics)
