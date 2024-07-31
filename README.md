@@ -335,3 +335,7 @@ React hooks & React custom hooks refresher
 ## Day 65 (30/07/2024)
 
 [React TS Generics](Day%2065/ts-generics)
+
+## Day 66 (31/07/2024)
+
+[Phone Book HashMap](Day%2066/phoneBookHashMap.js)
