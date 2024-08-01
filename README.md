@@ -344,3 +344,4 @@ React hooks & React custom hooks refresher
 
 [18-4sum](Day%2067/18-4sum.js)
 [Design Linked list](Day%2067/DesignLinkedList.js)
+[Detect Cycles](Day%2067/DetectLinkedListCycles.js)
