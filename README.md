@@ -339,3 +339,8 @@ React hooks & React custom hooks refresher
 ## Day 66 (31/07/2024)
 
 [Phone Book HashMap](Day%2066/phoneBookHashMap.js)
+
+## Day 67 (01/08/2024)
+
+[18-4sum](Day%2067/18-4sum.js)
+[Design Linked list](Day%2067/DesignLinkedList.js)
