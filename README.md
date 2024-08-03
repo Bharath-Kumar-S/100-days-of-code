@@ -349,3 +349,9 @@ React hooks & React custom hooks refresher
 ## Day 68 (02/08/2024)
 
 [1823 winner of circular game](Day%2068/1823_winner_of_circular_game.js)
+
+## Day 69 (03/08/2024)
+
+[O(n)](<Day%2069/o(n).js>)
+[O(n^2)](<Day%2069/o(n^2).js>)
+[performance](Day%2069/performance.js)
