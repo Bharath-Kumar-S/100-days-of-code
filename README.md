@@ -361,3 +361,11 @@ React hooks & React custom hooks refresher
 [179_largestNumber](Day%2070/179_largestNumber.js)
 [912_mergeSort](Day%2070/912_mergeSort.js)
 [selectionSort](Day%2070/selectionSort.js)
+
+## Day 71 (05/08/2024)
+
+[19_Remove_Nth_Node_From_End_of_List](Day%2071/19_Remove_Nth_Node_From_End_of_List.js)
+[100_isSameTree](Day%2071/100_isSameTree.js)
+[142_Linked_List_Cycle_II](Day%2071/142_Linked_List_Cycle_II.js)
+[160_Intersection_of_Two_Linked_Lists](Day%2071/160_Intersection_of_Two_Linked_Lists.js)
+[designBinarySearchTree](Day%2071/designBinarySearchTree.js)
