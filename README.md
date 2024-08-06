@@ -369,3 +369,10 @@ React hooks & React custom hooks refresher
 [142_Linked_List_Cycle_II](Day%2071/142_Linked_List_Cycle_II.js)
 [160_Intersection_of_Two_Linked_Lists](Day%2071/160_Intersection_of_Two_Linked_Lists.js)
 [designBinarySearchTree](Day%2071/designBinarySearchTree.js)
+
+## Day 72 (06/08/2024)
+
+[203_Remove_Linked_List_Elements](Day%2072/203_Remove_Linked_List_Elements.js)
+[206_reverse_linked_list](Day%2072/206_reverse_linked_list.js)
+[234_Palindrome_Linked_List](Day%2072/234_Palindrome_Linked_List.js)
+[328_Odd_Even_Linked_List](Day%2072/328_Odd_Even_Linked_List.js)
