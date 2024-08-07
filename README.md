@@ -4,7 +4,7 @@
 
 1. Stacks [Stacks](Day%201/Stack.js)
 2. Promise all [PromiseAll](Day%201/promiseAll.js)
-3. Leetcode 1 Twosum [Two sum](Day%201/Stack.js)
+3. Leetcode 1 Twosum [Two sum](Day%201/twoSum.js)
 
 ## Day 2 (28/05/2024)
 
@@ -376,3 +376,7 @@ React hooks & React custom hooks refresher
 [206_reverse_linked_list](Day%2072/206_reverse_linked_list.js)
 [234_Palindrome_Linked_List](Day%2072/234_Palindrome_Linked_List.js)
 [328_Odd_Even_Linked_List](Day%2072/328_Odd_Even_Linked_List.js)
+
+## Day 73 (07/08/2024)
+
+[Practise](Day%2073/Practise)
