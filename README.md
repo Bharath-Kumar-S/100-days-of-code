@@ -380,3 +380,9 @@ React hooks & React custom hooks refresher
 ## Day 73 (07/08/2024)
 
 [Practise](Day%2073/Practise)
+
+## Day 74 (08/08/2024)
+
+[graph implementation DFS & BFS](Day%2074/Graph)
+[Linked List - Add numbers](Day%2074/practise/addTwoNumbers.js)
+[Linked List - merge sorted list](Day%2074/practise/mergeTwoSortedList.js)
