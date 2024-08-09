@@ -386,3 +386,7 @@ React hooks & React custom hooks refresher
 [graph implementation DFS & BFS](Day%2074/Graph)
 [Linked List - Add numbers](Day%2074/practise/addTwoNumbers.js)
 [Linked List - merge sorted list](Day%2074/practise/mergeTwoSortedList.js)
+
+## Day 75 (09/08/2024)
+
+[Flatten Multilevel Doubly Linked List](Day%2075/flattenMultilevelDoublyLinkedList.js)
