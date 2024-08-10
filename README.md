@@ -390,3 +390,11 @@ React hooks & React custom hooks refresher
 ## Day 75 (09/08/2024)
 
 [Flatten Multilevel Doubly Linked List](Day%2075/flattenMultilevelDoublyLinkedList.js)
+
+## Day 76 (10/08/2024)
+
+[194 Maximum depth of Binary Tree](Day%2076/194_maximumDepthOfBinaryTree.js)
+[arrayContainsCommonValues](Day%2076/arrayContainsCommonValues.js)
+[IndexesOfSubArraySum](Day%2076/IndexesOfSubarraySum.js)
+[linkedLisrEvenorODD](Day%2076/linkedListEvenOdd.js)
+[Trie](Day%2076/Trie.js)
