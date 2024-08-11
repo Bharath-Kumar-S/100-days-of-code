@@ -398,3 +398,8 @@ React hooks & React custom hooks refresher
 [IndexesOfSubArraySum](Day%2076/IndexesOfSubarraySum.js)
 [linkedLisrEvenorODD](Day%2076/linkedListEvenOdd.js)
 [Trie](Day%2076/Trie.js)
+
+## Day 77 (11/06/2024)
+
+[mergeSortedArray](Day%2077/mergeSortedArray.js)
+[reverseString](Day%2077/reverseString.js)
