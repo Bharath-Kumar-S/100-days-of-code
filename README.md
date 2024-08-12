@@ -399,7 +399,13 @@ React hooks & React custom hooks refresher
 [linkedLisrEvenorODD](Day%2076/linkedListEvenOdd.js)
 [Trie](Day%2076/Trie.js)
 
-## Day 77 (11/06/2024)
+## Day 77 (11/08/2024)
 
 [mergeSortedArray](Day%2077/mergeSortedArray.js)
 [reverseString](Day%2077/reverseString.js)
+
+## Day 78 (12/08/2024)
+
+[26_removeDuplicatesFromArray](Day%2078/26_removeDuplicatesFromArray.js)
+[27_removeElement](Day%2078/27_removeElement.js)
+[88_mergeSortedArrays](Day%2078/88_mergeSortedArrays.js)
