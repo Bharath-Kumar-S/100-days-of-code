@@ -409,3 +409,16 @@ React hooks & React custom hooks refresher
 [26_removeDuplicatesFromArray](Day%2078/26_removeDuplicatesFromArray.js)
 [27_removeElement](Day%2078/27_removeElement.js)
 [88_mergeSortedArrays](Day%2078/88_mergeSortedArrays.js)
+
+## Day 79 (13/06/2024)
+
+[1282_productSum](Day%2079/1282_productSum.js)
+[blackJack](Day%2079/blackJack.js)
+[evenySpaced](Day%2079/evenySpaced.js)
+[factorial](Day%2079/factorial.js)
+[longestWord](Day%2079/longestWord.js)
+[makeBricks](Day%2079/makeBricks.js)
+[repeatedStrings](Day%2079/repeatedStrings.js)
+[sequence](Day%2079/sequence.js)
+[stringReverse](Day%2079/stringReverse.js)
+[stringsploison](Day%2079/stringsploison.js)
