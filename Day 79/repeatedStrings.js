@@ -39,5 +39,5 @@ const repeatedString = (s, n) => {
 assert.equal(repeatedString("abcac", 10), 4);
 assert.equal(repeatedString("aba", 10), 7);
 assert.equal(repeatedString("a", 1000000000000), 1000000000000);
-
+assert.equal(repeatedString("ceebbcb", 817723), 0);
 repeatedString("abcac", 10);

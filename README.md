@@ -410,7 +410,7 @@ React hooks & React custom hooks refresher
 [27_removeElement](Day%2078/27_removeElement.js)
 [88_mergeSortedArrays](Day%2078/88_mergeSortedArrays.js)
 
-## Day 79 (13/06/2024)
+## Day 79 (13/08/2024) GDTG
 
 [1282_productSum](Day%2079/1282_productSum.js)
 [blackJack](Day%2079/blackJack.js)
@@ -422,3 +422,13 @@ React hooks & React custom hooks refresher
 [sequence](Day%2079/sequence.js)
 [stringReverse](Day%2079/stringReverse.js)
 [stringsploison](Day%2079/stringsploison.js)
+
+## Day 80 (14/08/2024)
+
+[4Sum](Day%2080/4Sum.js)
+[905_Sort_Array_By_Parity](Day%2080/905_Sort_Array_By_Parity.js)
+[centeredAverage](Day%2080/centeredAverage.js)
+[findIntersection](Day%2080/findIntersection.js)
+[isSameTree](Day%2080/isSameTree.js)
+[linkedListEvenOdd](Day%2080/linkedListEvenOdd.js)
+[phoneBook](Day%2080/phoneBook.js)
