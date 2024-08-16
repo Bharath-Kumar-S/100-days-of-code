@@ -438,3 +438,18 @@ React hooks & React custom hooks refresher
 [692_top_k_frequent_words](Day%2081/692_top_k_frequent_words.js)
 [validBST_98](Day%2081/validBST_98.js)
 [validParentheses](Day%2081/validParentheses.js)
+
+## Day 92 (16/08/2024)
+
+[balanceArray](Day%2082/balanceArray.js)
+[collapseDuplicates](Day%2082/collapseDuplicates.js)
+[encoder](Day%2082/encoder.js)
+[mapShare](Day%2082/mapShare.js)
+[maxSpan](Day%2082/maxSpan.js)
+[pairs](Day%2082/pairs.js)
+[sortRemoveDuplicates](Day%2082/sortRemoveDuplicates.js)
+[sumNumbers](Day%2082/sumNumbers.js)
+[twoSum](Day%2082/twoSum.js)
+[withOutString](Day%2082/withOutString.js)
+[wordCount](Day%2082/wordCount.js)
+[wordLen](Day%2082/wordLen.js)
