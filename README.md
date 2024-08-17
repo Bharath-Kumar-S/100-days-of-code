@@ -453,3 +453,11 @@ React hooks & React custom hooks refresher
 [withOutString](Day%2082/withOutString.js)
 [wordCount](Day%2082/wordCount.js)
 [wordLen](Day%2082/wordLen.js)
+
+## Day 83 (17/06/2024)
+
+[42_trapRainingWater](Day%2083/42_trapRainingWater.js)
+[394_decodeString](Day%2083/394_decodeString.js)
+[359_loggerRateLimitter](Day%2083/359_loggerRateLimitter.js)
+[273_integerToEnglish](Day%2083/273_integerToEnglish.js)
+[1526_minimumIncrements](Day%2083/1526_minimumIncrements.js)
