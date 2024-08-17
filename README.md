@@ -433,13 +433,13 @@ React hooks & React custom hooks refresher
 [linkedListEvenOdd](Day%2080/linkedListEvenOdd.js)
 [phoneBook](Day%2080/phoneBook.js)
 
-## Day 91 (15/08/2024)
+## Day 81 (15/08/2024)
 
 [692_top_k_frequent_words](Day%2081/692_top_k_frequent_words.js)
 [validBST_98](Day%2081/validBST_98.js)
 [validParentheses](Day%2081/validParentheses.js)
 
-## Day 92 (16/08/2024)
+## Day 82 (16/08/2024)
 
 [balanceArray](Day%2082/balanceArray.js)
 [collapseDuplicates](Day%2082/collapseDuplicates.js)
