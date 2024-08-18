@@ -461,3 +461,11 @@ React hooks & React custom hooks refresher
 [359_loggerRateLimitter](Day%2083/359_loggerRateLimitter.js)
 [273_integerToEnglish](Day%2083/273_integerToEnglish.js)
 [1526_minimumIncrements](Day%2083/1526_minimumIncrements.js)
+
+## Day 84 (18/06/2024)
+
+[4_medianOfSortedArrays](Day%2084/4_medianOfSortedArrays.js)
+[17_phoneNumber](Day%2084/17_phoneNumber.js)
+[128_longestConsecutive](Day%2084/128_longestConsecutive.js)
+[200_noOfIslands](Day%2084/200_noOfIslands.js)
+[1768_mergeAlternately](Day%2084/1768_mergeAlternately.js)
