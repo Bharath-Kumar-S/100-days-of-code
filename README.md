@@ -469,3 +469,13 @@ React hooks & React custom hooks refresher
 [128_longestConsecutive](Day%2084/128_longestConsecutive.js)
 [200_noOfIslands](Day%2084/200_noOfIslands.js)
 [1768_mergeAlternately](Day%2084/1768_mergeAlternately.js)
+
+## Day 85 (19/06/2024)
+
+[198_houseRobber](Day%2085/198_houseRobber.js)
+[332_reconstructItenary](Day%2085/332_reconstructItenary.js)
+[834_guessWord](Day%2085/834_guessWord.js)
+[bubbleSort](Day%2085/bubbleSort.js)
+[insertionSort](Day%2085/insertionSort.js)
+[memoize](Day%2085/memoize.js)
+[selectionSort](Day%2085/selectionSort.js)
