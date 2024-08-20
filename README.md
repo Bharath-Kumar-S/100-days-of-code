@@ -454,7 +454,7 @@ React hooks & React custom hooks refresher
 [wordCount](Day%2082/wordCount.js)
 [wordLen](Day%2082/wordLen.js)
 
-## Day 83 (17/06/2024)
+## Day 83 (17/08/2024)
 
 [42_trapRainingWater](Day%2083/42_trapRainingWater.js)
 [394_decodeString](Day%2083/394_decodeString.js)
@@ -462,7 +462,7 @@ React hooks & React custom hooks refresher
 [273_integerToEnglish](Day%2083/273_integerToEnglish.js)
 [1526_minimumIncrements](Day%2083/1526_minimumIncrements.js)
 
-## Day 84 (18/06/2024)
+## Day 84 (18/08/2024)
 
 [4_medianOfSortedArrays](Day%2084/4_medianOfSortedArrays.js)
 [17_phoneNumber](Day%2084/17_phoneNumber.js)
@@ -470,7 +470,7 @@ React hooks & React custom hooks refresher
 [200_noOfIslands](Day%2084/200_noOfIslands.js)
 [1768_mergeAlternately](Day%2084/1768_mergeAlternately.js)
 
-## Day 85 (19/06/2024)
+## Day 85 (19/08/2024)
 
 [198_houseRobber](Day%2085/198_houseRobber.js)
 [332_reconstructItenary](Day%2085/332_reconstructItenary.js)
@@ -479,3 +479,11 @@ React hooks & React custom hooks refresher
 [insertionSort](Day%2085/insertionSort.js)
 [memoize](Day%2085/memoize.js)
 [selectionSort](Day%2085/selectionSort.js)
+
+## Day 86 (20/08/2024)
+
+[143_reorderList](Day%2086/143_reorderList.js)
+[208_implementTrie](Day%2086/208_implementTrie.js)
+[211_specialdic](Day%2086/211_specialdic.js)
+[70_climbingStairs](Day%2086/70_climbingStairs.js)
+[memoization](Day%2086/memoization.js)
