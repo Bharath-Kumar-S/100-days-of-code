@@ -487,3 +487,7 @@ React hooks & React custom hooks refresher
 [211_specialdic](Day%2086/211_specialdic.js)
 [70_climbingStairs](Day%2086/70_climbingStairs.js)
 [memoization](Day%2086/memoization.js)
+
+## Day 87 (21/08/2024)
+
+[Tailwind](Day%2087/tail-wind-demo)
