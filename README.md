@@ -491,3 +491,7 @@ React hooks & React custom hooks refresher
 ## Day 87 (21/08/2024)
 
 [Tailwind](Day%2087/tail-wind-demo)
+
+## Day 89 (25/08/2024)
+
+[React](Day%2089/vite-project)
