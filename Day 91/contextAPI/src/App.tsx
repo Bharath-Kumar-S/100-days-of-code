@@ -8,6 +8,8 @@ function App() {
     <div>
       <p>User: {user}</p>
       <button onClick={() => setUser("John Doe")}>Set User</button>
+      <button onClick={() => setUser(null)}>Clear User</button>
+      <input onChange={(e) => setUser(e.target.value)} />
     </div>
   );
 }

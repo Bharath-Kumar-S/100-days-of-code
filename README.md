@@ -503,3 +503,8 @@ React hooks & React custom hooks refresher
 ## Day 91 (26/08/2023)
 
 [React context API](Day%2091/contextAPI)
+
+## Day 92 (29/08/2024)
+
+[Proxy](Day%2092/proxies-currying/proxies.js)
+[Currying](Day%2092/proxies-currying/currying.js)
