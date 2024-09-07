@@ -529,6 +529,8 @@ React hooks & React custom hooks refresher
 
 [Express, NodeJS](https://github.com/Bharath-Kumar-S/core-api)
 
+## Day 98, 99 (5,6 / 09 /2024)
 
+[SQS, SNS, Lambda, IAM, AWS SDK, Cloud watch](https://github.com/Bharath-Kumar-S/core-api/pull/2) 
 
 
